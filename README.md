@@ -9,7 +9,7 @@ Amo programar e tenho feito isso diariamente desde meu primeiro contato com a á
     <a href="https://instagram.com/xicoaguiar" target="_blank" >
       <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?logo=Instagram&logoColor=white">
     </a>
-    <a href="www.linkedin.com/in/francisco-souza-lima/" target="_blank" >
+    <a href="https://www.linkedin.com/in/francisco-souza-lima/" target="_blank" >
       <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white">
     </a>
     <a href="https://t.me/franciscosouzalima" target="_blank" >

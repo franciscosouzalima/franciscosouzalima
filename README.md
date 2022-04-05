@@ -20,6 +20,18 @@ Amo programar e tenho feito isso diariamente desde meu primeiro contato com a á
     </a>
   </p>
 </samp>
+
+```js
+  let mySkills = {
+    💬 linguagens: 'python', 'javascript', 'css', 'html',
+    🔨 frameworks: 'django', 'nodejs', 'react', 'bootstrap',
+    📦 bancoDeDados: 'mongodb', 'postgresql',
+    🔧 ferramentas: 'postman', 'git', 'vscode', 'pycharm',
+    🌱 aprendendo: 'java',
+    📈 melhoriaContinua: true
+  }
+```
+
 <!--
 **franciscosouzalima/franciscosouzalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
